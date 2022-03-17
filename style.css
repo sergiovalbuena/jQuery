@@ -1,0 +1,17 @@
+*{
+    margin:0;
+    padding: 0;
+}
+div{
+    width: 200px;
+    height: 200px;
+    margin: 100px;
+    background-color: #222;
+    color:#fff;
+    text-align: center;
+    line-height: 200px;
+    float: left;
+}
+a{
+    text-decoration: none;
+}
